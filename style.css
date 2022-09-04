@@ -1,0 +1,31 @@
+div#cabecera {
+    color:chocolate;
+    font-size: 25px;
+    text-align: center;
+    text-shadow: 1px 1px rgb(247, 194, 50);
+}
+div#cuerpo {
+    color: black ;
+}
+a{
+    color:black ;
+}
+h3{
+    color: chocolate;
+    text-align: center;
+    text-shadow: 1px 1px rgb(247, 194, 50);
+}
+span.destacado{
+    text-align: center;
+}
+span.destacado ul {
+    display: inline;
+}
+div#footer{
+    position: center;
+    color: white;
+    background-color:rgb(236, 221, 201);
+    width: 100%;
+    height: 81px;
+    position: absolute;
+}
